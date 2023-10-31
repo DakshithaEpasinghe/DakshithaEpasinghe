@@ -1,5 +1,8 @@
-### Hi there 👋
-### 🌱 I’m currently learning NSBM University...
+### Hi there !..
+###  I’m currently learning Software Engineering...
+### I’m currently studing on NSBM Green Univeersity...
+
+
 
 
 <!--
